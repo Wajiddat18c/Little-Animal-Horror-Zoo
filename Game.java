@@ -17,4 +17,4 @@ public class Game{
    System.out.println();
    System.out.println("Spillet er slut nu! og Snaken har vundet");
    }
-}
+} 
