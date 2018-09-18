@@ -16,5 +16,5 @@ public class Snake{
    public void eat(){
       System.out.println("HAHA jeg spiser dig nu Kanin!");
       System.out.println("HAPS!");
-}
+   }
 }
