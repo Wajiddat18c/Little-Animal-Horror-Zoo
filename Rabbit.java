@@ -17,5 +17,5 @@ public class Rabbit{
    public void help(){
       System.out.println("NEEEJJ!!! Du må ikke spise mig Slange!");
       }
-
+ 
 }
